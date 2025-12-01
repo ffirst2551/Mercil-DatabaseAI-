@@ -187,7 +187,7 @@ async def main():
     
     print("\n🔍 Testing similarity search...")
     results = await search_similar_assets("โรงพยาบาล", limit=3)
-    
+
     print("\nTop 3 similar assets:")
     for r in results:
         print(f"- {r['name']} (similarity: {r['similarity']:.3f})")
