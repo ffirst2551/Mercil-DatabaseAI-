@@ -69,25 +69,6 @@ Mercil is a modern web application that combines:
 - [x] Vector similarity search
 - [x] Spatial indexing for fast geo-queries
 
-### Module 2: API Development (Coming Soon)
-- [ ] RESTful API endpoints
-- [ ] Semantic search API
-- [ ] Geospatial query API
-- [ ] Authentication & authorization
-- [ ] Rate limiting
-
-### Module 3: AI Integration (Coming Soon)
-- [ ] Chat interface with Ollama
-- [ ] Context-aware responses
-- [ ] Thai language processing
-- [ ] Multi-turn conversations
-
-### Module 4: Frontend (Coming Soon)
-- [ ] React-based web interface
-- [ ] Interactive map visualization
-- [ ] Real-time chat UI
-- [ ] Mobile-responsive design
-
 ---
 
 ## 🏗 Architecture
@@ -527,27 +508,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-If you have any questions or issues:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search [existing issues](https://github.com/ffirst2551/Mercil-DatabaseAI-/issues)
-3. Create a [new issue](https://github.com/ffirst2551/Mercil-DatabaseAI-/issues/new)
-
----
-
-## 🗺 Roadmap
-
-### Q1 2024
-- [x] Module 1: Data Foundation
-- [ ] Module 2: API Development
-- [ ] Module 3: AI Integration
-
-### Q2 2024
-- [ ] Module 4: Frontend Development
-- [ ] Production deployment
-- [ ] Mobile app (React Native)
 
 ---
 
