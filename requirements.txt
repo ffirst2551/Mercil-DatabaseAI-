@@ -26,7 +26,6 @@ ollama==0.1.6
 # Geocoding
 geopy==2.4.1
 python-dotenv==1.0.0
-
 # Utilities
 pydantic==2.5.3
 python-jose[cryptography]==3.3.0
