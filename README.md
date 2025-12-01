@@ -58,17 +58,12 @@ Mercil is a modern web application that combines:
 - Async operations with SQLAlchemy 2.0
 
 ---
+## 🌟 Features
 
-## ✨ Features
-
-### Module 1: Data Foundation ✅
-- [x] PostgreSQL setup with pgvector & PostGIS
-- [x] Automatic data loading from JSON
-- [x] Text embedding generation (384-dim)
-- [x] Address geocoding to lat/lon
-- [x] Vector similarity search
-- [x] Spatial indexing for fast geo-queries
-
+### Core Features
+- **Intelligent Semantic Search**: ค้นหาด้วย NLP และ AI ที่เข้าใจภาษาไทย
+- **Location-Based Search**: ค้นหาตามระยะทาง (PostGIS)
+- **Image Upload & Auto-Tagging**: อัพโหลดรูปและสร้าง tags อัตโนมัติด้วย AI
 ---
 
 ## 🏗 Architecture
